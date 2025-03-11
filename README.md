@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEKBAL Akram</h1>
 <h3 align="center">Data Science, ML & Back-End Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrammk&label=Profile%20views&color=0e75b6&style=flat" alt="akrammk" /> </p>
-<h6 align="center">I am a Data Scientict and Back-End Enthusiast, currently completing a Master’s in Computer Science at Lyon 1. My expertise lies in Generative AI, custom LLMs, and scalable AI solutions, with a strong focus on RAG models and prompt engineering. In addition to my AI background, I have a keen interest in web development, with skills in Spring Boot, Express.js and Django, allowing me to build full-stack applications that integrate AI capabilities. </h6>
+<h4 align="center">I am a Data Scientict and Back-End Enthusiast, currently completing a Master’s in Computer Science at Lyon 1. My expertise lies in Generative AI, custom LLMs, and scalable AI solutions, with a strong focus on RAG models and prompt engineering. In addition to my AI background, I have a keen interest in web development, with skills in Spring Boot, Express.js and Django, allowing me to build full-stack applications that integrate AI capabilities. </h4>
 
 - 🔭 I’m currently working on **fine tuning llama 2**
 
